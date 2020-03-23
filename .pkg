@@ -1,0 +1,5 @@
+[res]
+  url=git@git.motis-project.de:lib/res.git
+  branch=master
+  commit=f7f46a7ced02188b5a057100d4536579a98d71de
+  
