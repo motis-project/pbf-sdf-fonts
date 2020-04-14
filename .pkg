@@ -1,5 +1,5 @@
 [res]
-  url=git@git.motis-project.de:lib/res.git
-  branch=explicit-targets
-  commit=fb2514e683179669c7298af14dbf0c25599c4a18
+  url=git@github.com:motis-project/res.git
+  branch=master
+  commit=9ed3053a8aa0ce6edcf609bfa280cc627c892511
   
